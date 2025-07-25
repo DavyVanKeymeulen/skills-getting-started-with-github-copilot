@@ -169,3 +169,8 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* JavaScript rendered content styles */
+.activity-card {
+  /* Add any additional styles for JavaScript-rendered content here */
+}
